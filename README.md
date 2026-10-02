@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hanji
+# 👋 Hi, I'm Ismail
 
 🎓 3rd Year Computer Science Student  
 🔐 Aspiring Cybersecurity Analyst  
