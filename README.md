@@ -37,7 +37,17 @@ and cybersecurity with the goal of becoming a Cybersecurity Analyst.
 **Learning • Building • Securing 🔐**
 ## 📊 Contributions
 
-![Matrix Contributions](./matrix-contributions.svg)
+## 📊 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ismail-bulle/Ismail-bulle/output/matrix-rain-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ismail-bulle/Ismail-bulle/output/matrix-rain-v2-light.svg">
+  <img alt="Matrix Contribution Graph" src="https://raw.githubusercontent.com/Ismail-bulle/Ismail-bulle/output/matrix-rain-v2-dark.svg">
+</picture>
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-bulle)
 
 ## 🤝 Connect With Me
 
