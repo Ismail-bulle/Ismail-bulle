@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ismail
 
-<!--
-**Ismail-bulle/Ismail-bulle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student
+🔐 Aspiring Cybersecurity Analyst
+💻 Interested in Cybersecurity, Networking, Linux & Software Development
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Linux
+* Networking
+* Cybersecurity
+* Web Development
+
+### 🛠️ What I'm Doing
+
+Building projects, improving my technical skills, and working towards a career in cybersecurity.
+
+### 📌 Goal
+
+To become a skilled cybersecurity professional and keep learning through real-world projects.
+
+---
+
+**Learning • Building • Securing 🔐**
