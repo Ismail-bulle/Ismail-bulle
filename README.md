@@ -45,9 +45,7 @@ and cybersecurity with the goal of becoming a Cybersecurity Analyst.
   <img alt="Matrix Contribution Graph" src="https://raw.githubusercontent.com/Ismail-bulle/Ismail-bulle/output/matrix-rain-v2-dark.svg">
 </picture>
 
-## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-bulle)
 
 ## 🤝 Connect With Me
 
