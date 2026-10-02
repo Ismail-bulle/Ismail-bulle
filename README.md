@@ -35,7 +35,6 @@ and cybersecurity with the goal of becoming a Cybersecurity Analyst.
 ---
 
 **Learning • Building • Securing 🔐**
-## 📊 Contributions
 
 ## 📊 My Contributions
 
