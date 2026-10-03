@@ -19,6 +19,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 `Wireshark` • `Nmap` • `Burp Suite` • `DNS` • `TCP/IP` • `HTTP/HTTPS`
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/bulleismail4)
+
+Currently completing hands-on cybersecurity rooms and challenges on TryHackMe.
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
